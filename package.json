@@ -35,7 +35,8 @@
     "@stagas/documentation-fork": "^13.2.5",
     "esbuild": "^0.14.2",
     "eslint": "^8.3.0",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "mocha-headless": "^8.0.0"
   },
   "short": "stagas/wat-compiler",
   "repository": {
